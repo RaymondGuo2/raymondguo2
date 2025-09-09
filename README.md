@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ray 
 
-💡 AI Software Engineer (Technology Graduate) @ Vodafone Group | MSc Computing @ Imperial | BSc Psychological & Behavioural Science @ LSE  
+💡 AI Software Engineer Graduate @ Vodafone | MSc Computing @ Imperial | BSc Psychological & Behavioural Science @ LSE  
 
 - 🎓 Distinction MSc in Computing (Imperial), First Class BSc in Behavioural Science (LSE)
 - 💻 Experience in **C++, Python, Java, SQL, Docker, Azure**  
